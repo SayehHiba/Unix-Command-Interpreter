@@ -1,0 +1,2 @@
+Path E:/MPSE/Path|E:/MPSE/Path/autre|E:/MPSE/Path/autre/interne
+Home E:/MPSE/Home
