@@ -1,4 +1,4 @@
-# MiniProjetSE
+# MiniProjetSE By @eyakaraa and @SayehHiba 
 
 
 The project is divided into two parts, so we have given the possibility to the user to choose the part they want to test through a menu.
